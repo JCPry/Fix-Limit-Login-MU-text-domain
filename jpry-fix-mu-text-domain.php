@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Fix MU Text Domain
+ * Plugin URI: https://github.com/JCPry/Fix-Limit-Login-MU-text-domain
  * Description: When the "Limit Login Attempts" plugin is placed in the /wp-content/mu-plugins folder instead of the normal /wp-content/plugins folder, the text domain (for translation) is broken. This plugin fixes the text domain issue.
  * Version: 1.0
  * Author: Jeremy Pry <jeremy@wpengine.com>
